@@ -26,7 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cmsToH5" target="1.5" />
+      <module name="cmsToH5" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
